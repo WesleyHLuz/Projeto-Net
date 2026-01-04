@@ -1,0 +1,15 @@
+/workspaces/Projeto-Net/BuscaDir/bin/Debug/net10.0/BuscaDir
+/workspaces/Projeto-Net/BuscaDir/bin/Debug/net10.0/BuscaDir.deps.json
+/workspaces/Projeto-Net/BuscaDir/bin/Debug/net10.0/BuscaDir.runtimeconfig.json
+/workspaces/Projeto-Net/BuscaDir/bin/Debug/net10.0/BuscaDir.dll
+/workspaces/Projeto-Net/BuscaDir/bin/Debug/net10.0/BuscaDir.pdb
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.AssemblyInfoInputs.cache
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.AssemblyInfo.cs
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.csproj.CoreCompileInputs.cache
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.sourcelink.json
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.dll
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/refint/BuscaDir.dll
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.pdb
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/BuscaDir.genruntimeconfig.cache
+/workspaces/Projeto-Net/BuscaDir/obj/Debug/net10.0/ref/BuscaDir.dll
